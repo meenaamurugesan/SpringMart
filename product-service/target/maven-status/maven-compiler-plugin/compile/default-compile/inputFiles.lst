@@ -1,0 +1,7 @@
+D:\Learning\ecommerce-project\product-service\src\main\java\com\learning\product_service\controller\ProductController.java
+D:\Learning\ecommerce-project\product-service\src\main\java\com\learning\product_service\dto\ProductRequest.java
+D:\Learning\ecommerce-project\product-service\src\main\java\com\learning\product_service\dto\ProductResponse.java
+D:\Learning\ecommerce-project\product-service\src\main\java\com\learning\product_service\model\Product.java
+D:\Learning\ecommerce-project\product-service\src\main\java\com\learning\product_service\ProductServiceApplication.java
+D:\Learning\ecommerce-project\product-service\src\main\java\com\learning\product_service\repository\ProductRepository.java
+D:\Learning\ecommerce-project\product-service\src\main\java\com\learning\product_service\service\ProductService.java
